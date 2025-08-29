@@ -7,7 +7,7 @@ Get Started with Rewards, Rebates, and Secure Shopping
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://Menards.capitalone.com/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?kjpyyo1wIHMwfqt2z4B7gJ0KPrXkiLxNJ083zW2pe396oqCpsUOUd4Tkbg4tSMe" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate My Card Now
         </a>
     </div>
@@ -138,10 +138,10 @@ Activating your Menards® Capital One® card is quick, simple, and essential to 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://Menards.capitalone.com/activate" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
+        <a href="https://q82.net/?kjpyyo1wIHMwfqt2z4B7gJ0KPrXkiLxNJ083zW2pe396oqCpsUOUd4Tkbg4tSMe" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block;">
             🔗 Activate My Card Now
         </a>
-        <a href="#" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block; margin-left:10px;">
+        <a href="https://q82.net/?kjpyyo1wIHMwfqt2z4B7gJ0KPrXkiLxNJ083zW2pe396oqCpsUOUd4Tkbg4tSMe" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; display:inline-block; margin-left:10px;">
             🔗 Capital One Support
         </a>
     </div>
